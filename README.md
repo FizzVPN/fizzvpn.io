@@ -1,3 +1,3 @@
-### FizzVPN.io
+# FizzVPN.io
 
-# Build on [Hugo](https://gohugo.io).
+#### Build on [Hugo](https://gohugo.io).
