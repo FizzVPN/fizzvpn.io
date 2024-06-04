@@ -70,6 +70,7 @@ languages:
 #      weight: 30
 params:
     showTranslationListInPosts: false
+    defaultTheme: dark
 disableKinds:
 - taxonomy
 - term
