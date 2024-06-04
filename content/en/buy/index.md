@@ -29,6 +29,6 @@ UseHugoToc: false
 ---
 {{< rawhtml >}}
 <center>
-<div class="digiseller-buy-standalone" data-id="3835316" data-owner="0" data-lang="en-US" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0"></div>
+<div class="digiseller-buy-standalone" data-id="3700071" data-owner="0" data-lang="en-US" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0"></div>
 </center>
 {{< /rawhtml >}}
