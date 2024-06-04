@@ -29,9 +29,12 @@ UseHugoToc: false
 
 # General information for all platforms
 
-1. Receiving a subscription may take **up to 10 seconds.**
+1. **Subscription is a link** that you receive, like *https://get...*
+	>***You don't need to click on it and copy content from there!***
 
-2. If instead of one of the servers the following message appears:  
+2. Receiving a subscription may take **up to 10 seconds.**
+
+3. If instead of one of the servers the following message appears:  
 
 	> ⛔ **XX UNAVAILABLE** ⛔
 
