@@ -1,11 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
+---
+title: 
+author: "Fizz VPN"
+showToc: false
+TocOpen: true
+draft: false
+hidemeta: true
+hideAuthor: true
+comments: false
+description: 
+#canonicalURL: "https://canonical.url/to/page"
+disableShare: false
+disableHLJS: false
+hideSummary: true
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: false
+UseHugoToc: false
+#cover:
+#    image: "<image path/url>" # image path/url
+#    alt: "<alt text>" # alt text
+#    caption: "<text>" # display caption under cover
+#    relative: false # when using page bundles set this to true
+#    hidden: true # only hide on current single page
+---
+{{< rawhtml >}}
+
 <script>!function(e){var l=function(l){return e.cookie.match(new RegExp("(?:^|; )digiseller-"+l+"=([^;]*)"))},i=l("lang"),s=l("cart_uid"),t=i?"?lang="+i[1]:"",d=s?"&cart_uid="+s[1]:"",r=e.getElementsByTagName("head")[0]||e.documentElement,n=e.createElement("link"),a=e.createElement("script");n.type="text/css",n.rel="stylesheet",n.id="digiseller-css",n.href="//shop.digiseller.ru/xml/store2_css.asp?seller_id=1153175",a.async=!0,a.id="digiseller-js",a.src="//www.digiseller.ru/store2/digiseller-api.js.asp?seller_id=1153175"+t+d,!e.getElementById(n.id)&&r.appendChild(n),!e.getElementById(a.id)&&r.appendChild(a)}(document);</script>
    <style type="text/css">
         .digiseller-buy-standalone .digiseller-param .digiseller-label-zag, .digiseller-calc .digiseller-param .digiseller-label-zag  {
@@ -18,7 +40,7 @@
 			display: none;
 		}
 		.digiseller-body .digiseller-row .digiseller-f-dropdown li a:hover, .digiseller-body .digiseller-row .digiseller-f-dropdown li a[data-lang=en-US], .digiseller-body .digiseller-row .digiseller-f-dropdown li a[data-lang=ru-RU], .digiseller-body .digiseller-row table tbody tr td, .digiseller-body .digiseller-row table tbody tr th, .digiseller-body .digiseller-row table thead tr th, .digiseller-body .digiseller-row table tr td, .digiseller-body .digiseller-tabs-content>.digiseller-content.digiseller-active, .digiseller-body footer nav ul.digiseller-inline-list, .digiseller-body footer nav.digiseller-inline-list, .digiseller-body header.digiseller-row, .digiseller-body table tfoot tr td, .digiseller-body table tfoot tr th, .digiseller-body.digiseller-small .digiseller-f-dropdown:before, .digiseller-large .digiseller-top-bar section>ul li, .digiseller-left-off-canvas-menu, .digiseller-left-off-canvas-menu .digiseller-top-bar ul li, .digiseller-popup-main .digiseller-reveal-modal #digiseller-popup-container .digiseller-bag-table.digiseller-table-footer:nth-child(2n) td, .digiseller-popup-main .digiseller-reveal-modal #digiseller-popup-container .digiseller-bag-table.digiseller-table-footer:nth-child(odd) td, .digiseller-popup-main .digiseller-reveal-modal #digiseller-popup-container .digiseller-bag-table:nth-child(2n) td, .digiseller-popup-main .digiseller-reveal-modal #digiseller-popup-container .digiseller-bag-table:nth-child(odd) td, .digiseller-popup-main .digiseller-reveal-modal #digiseller-popup-container table:nth-child(odd), .digiseller-reveal-modal table tbody tr td, .digiseller-reveal-modal table tbody tr th, .digiseller-reveal-modal.digiseller-service-modal>div#digiseller-popup-container>div.digiseller-modal-button, .digiseller-row .digiseller-top-bar .digiseller-back, body {
-			background-color: rgb(29, 30, 32);
+			background-color: var(--theme);
 			font-family: Nunito !important;
 		}
 		.digiseller-buy-standalone ul.digiseller-pricing-table li.digiseller-bullet-item, .digiseller-calc ul.digiseller-pricing-table li.digiseller-bullet-item {
@@ -33,10 +55,7 @@
 			font-size: 16px;
 		}
     </style>
-<body>
-<br>
 <center>
-<div class="digiseller-buy-standalone" data-id="3835316" data-owner="0" data-lang="en-US" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0"></div>
+<div class="digiseller-buy-standalone" data-id="3835316" data-owner="0" data-lang="ru-RU" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0"></div>
 </center>
-</body>
-</html>
+{{< /rawhtml >}}
