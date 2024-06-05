@@ -70,7 +70,7 @@ UseHugoToc: false
 	![Hiddify-1](/install-guide/hiddify-2.gif)
 
 
-4. **In the upper right corner, click on the “Settings” icon and select the “VPN Service” mode or simply “VPN” if you have problems with the first one.**
+4. **In the upper right corner, click on the “Settings” icon and select the “VPN" mode.**
 	
 	>If you only need VPN for browsing, you can keep it at "System Proxy."
 	
@@ -92,16 +92,18 @@ UseHugoToc: false
 
 	![NekoRay Github](/install-guide/nekoray-github.png)
 
- **Download:** {{< rawhtml >}}
+	**Download:** {{< rawhtml >}}
 <a href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br><br>
 {{< /rawhtml >}}
 
 2. **Run the program according to your OS. On Windows it is `nekoray.exe` with a "cats in a box" icon.**
 
-  >**Important!** Run ***with administrator rights*** *(required for VPN mode)*.
+	>**Important!** Run ***with administrator rights*** *(required for VPN mode)*.
 
 3. **After launch, you need to adjust the settings** *(to eliminate DNS leak)*.
-  To do this, select “Settings” -> “TUN mode settings” in the menu. In the window that opens, check the "Strict Route" box and click OK.
+	To do this, select “Settings” -> “TUN mode settings” in the menu. In the window that opens, check the "Strict Route" box and click OK.
+
+	>If you fail to connect at the end, try unchecking this box and try connecting again.
 
 	![NekoRay-1](/install-guide/nekoray-1.gif)
 
