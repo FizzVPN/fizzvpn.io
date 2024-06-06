@@ -17,8 +17,8 @@ languages:
             subtitle: "Lighter than bubbles"
             imageUrl: "/images/logo_fizz.png" # optional
             #imageTitle: "<title of image as alt>" # optional
-            imageWidth: 120 # custom size
-            imageHeight: 120 # custom size
+            imageWidth: 180 # custom size
+            imageHeight: 180 # custom size
             buttons:
               - name: Телеграм канал
                 url: "https://t.me/FizzVPN"
@@ -28,6 +28,8 @@ languages:
                 url: "https://status.fizzvpn.io"
               - name: Инструкция
                 url: "/install-guide"
+              - name: О нас
+                url: "/about"
     weight: 1
   en:
     contentDir: content/en
@@ -42,8 +44,8 @@ languages:
             subtitle: "Lighter than bubbles"
             imageUrl: "/images/logo_fizz.png" # optional
             imageTitle: "Logo" # optional
-            imageWidth: 120 # custom size
-            imageHeight: 120 # custom size
+            imageWidth: 200 # custom size
+            imageHeight: 200 # custom size
             buttons:
               - name: Telegram channel
                 url: "https://t.me/FizzVPN"
@@ -53,6 +55,8 @@ languages:
                 url: "https://status.fizzvpn.io"
               - name: Install guide
                 url: "/en/install-guide"
+              - name: О нас
+                url: "/en/about"
     weight: 2
 #menu:
 #  main:

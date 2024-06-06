@@ -35,6 +35,7 @@ UseHugoToc: false
 🔹 **Up to 5 devices**  
 🔹 **No traffic limit**  
 ⚡️ **Speed ​​up to 1Gbps**  
+✅ *There are servers that support BitTorrent*  
 🔹 Supports all popular OS and devices (Windows 10/11, Android, iOS, MacOS, Linux)  
 🔰 Guarantee for the entire subscription period  
 

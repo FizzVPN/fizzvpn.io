@@ -27,14 +27,17 @@ UseHugoToc: false
 #    hidden: true # only hide on current single page
 ---
 
-# General information for all platforms
+# ❗️IMPORTANT INFO❗️
 
-1. **Subscription is a link** that you receive, like *https://get...*
+1. **Subscription is a key-link** that you receive, like *https://get...*
 	>***You don't need to click on it and copy content from there!***
 
-2. Receiving a subscription may take **up to 10 seconds.**
+2. All information about new locations, server changes, the need to update your subscription, etc. is here:
+	>[Our Telegram Channel](https://t.me/FizzVPN)
 
-3. If instead of one of the servers the following message appears:  
+3. Receiving a subscription may take **up to 10 seconds.**
+
+4. If instead of one of the servers the following message appears:  
 
 	> ⛔ **XX UNAVAILABLE** ⛔
 
