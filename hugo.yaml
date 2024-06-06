@@ -44,8 +44,8 @@ languages:
             subtitle: "Lighter than bubbles"
             imageUrl: "/images/logo_fizz.png" # optional
             imageTitle: "Logo" # optional
-            imageWidth: 200 # custom size
-            imageHeight: 200 # custom size
+            imageWidth: 180 # custom size
+            imageHeight: 180 # custom size
             buttons:
               - name: Telegram channel
                 url: "https://t.me/FizzVPN"
@@ -55,7 +55,7 @@ languages:
                 url: "https://status.fizzvpn.io"
               - name: Install guide
                 url: "/en/install-guide"
-              - name: О нас
+              - name: About us
                 url: "/en/about"
     weight: 2
 #menu:
