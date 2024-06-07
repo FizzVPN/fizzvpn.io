@@ -41,6 +41,14 @@ body {
     background: var(--theme);
 }
 
+.logo a {
+    font-size: 1.8em;
+}
+
+.logo-switches a {
+    font-size: 1.2em;
+}
+
 .buttons {
     flex-wrap: wrap;
     max-width: 400px;
