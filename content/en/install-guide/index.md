@@ -79,7 +79,7 @@ UseHugoToc: false
 	
 	![Hiddify-4](/install-guide/hiddify-3.png)
 
-5. **Connect, go to the proxy tab and select a server.**
+5. **Connect, go to the ***Proxy*** tab and ***Select a server***.**
 
 	>Changing a server can take up to 10 seconds.
 
