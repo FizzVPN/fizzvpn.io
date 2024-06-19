@@ -110,9 +110,9 @@ UseHugoToc: false
 
 	![NekoRay-1](/install-guide/nekoray-1.gif)
 
-4. **Copy the subscription and select “Program” -> “Add profile from a clipboard” from the menu. In the window that opens, do not change anything and click OK.**
+4. **Copy the subscription and select “Program” -> “Add profile from a clipboard” from the menu. In the window that opens, select “As a subscription (add a new group)” and click OK. Next "Settings" -> Groups and delete the default group.**
 
-	![NekoRay-2](/install-guide/nekoray-2.gif)
+	![NekoRay-2](/install-guide/nekoray-2-1.gif)
 
 5. **Select “Program” -> “Remember last profile” from the menu. Next, be sure to check the “TUN Mode” checkbox in the upper right corner, then select the server, “RMB” -> “Run”.**
 
