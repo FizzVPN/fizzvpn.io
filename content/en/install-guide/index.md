@@ -193,4 +193,28 @@ Copy the received subscription and then follow the instructions:
 
 ![v2rayNG](/install-guide/v2rayNG.png)
 
+--------------
+
+# Update subscription
+
+## Hiddify
+
+![Hiddify](/install-guide/hiddify-update.png)
+
+## NekoRay
+
+![NekoRay](/install-guide/nekoray-update.png)
+
+## Streisand 
+
+![Streisand](/install-guide/streisand-update.png)
+
+## V2Box
+
+![V2box](/install-guide/v2box-update.png)
+
+## v2rayNG
+
+![V2rayNG](/install-guide/v2rayng-update.png)
+
 {{< rawhtml >}}<center><b>The End</b></center>{{< /rawhtml >}}
