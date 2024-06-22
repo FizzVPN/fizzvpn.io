@@ -29,7 +29,8 @@ UseHugoToc: false
 ## Fizz VPN is:  
 
 🔹 Personal VPN subscription with a large selection of locations  
-🌍 ***All locations are available immediately within the subscription, no switching, replacement, etc.***
+🌍 ***All locations are available immediately within the subscription, no switching, replacement, etc.***  
+⛔️ Built-in AD blocking  
 🔹 Created using one of the most modern technologies (VLESS-Reality)  
 ✅ Works stably and will work in the Russian Federation and all over* the world  
 🔹 **Up to 5 devices**  
@@ -43,16 +44,16 @@ UseHugoToc: false
 
 ## 🌍 Our locations:  
 
-🔹France  
-🔹Germany  
-🔹 Netherlands  
-🔹 Sweden  
-🔹 Turkey  
-🔹 Kazakhstan  
-🔹 Russia  
-🔹 UK  
-🔹 USA  
-🔹 Hong Kong  
+🔹 France 🇫🇷  
+🔹 Germany 🇩🇪 — 2 servers  
+🔹 Netherlands 🇳🇱 — 2 servers  
+🔹 Sweden 🇸🇪 — 2 servers  
+🔹 Türkiye 🇹🇷 — 2 servers + works PSN, Epic Games, Spotify, Netflix  
+🔹 Kazakhstan 🇰🇿  
+🔹 Russia 🇷🇺  
+🔹 UK 🇬🇧  
+🔹 USA 🇺🇸  
+🔹 Hong Kong 🇭🇰  
 
 *And many more to come*
 
