@@ -44,16 +44,27 @@ UseHugoToc: false
 
 ## 🌍 Our locations:  
 
-🔹 France 🇫🇷  
-🔹 Germany 🇩🇪 — 2 servers  
-🔹 Netherlands 🇳🇱 — 2 servers  
-🔹 Sweden 🇸🇪 — 2 servers  
+🔹 Finland 🇫🇮 — 2 servers  
+🔹 Netherlands 🇳🇱 — 2 servers + Torrent support  
 🔹 Türkiye 🇹🇷 — 2 servers + works PSN, Epic Games, Spotify, Netflix  
+🔹 Argentina 🇦🇷  
+🔹 Egypt 🇪🇬  
 🔹 Kazakhstan 🇰🇿  
 🔹 Russia 🇷🇺  
+🔹 France 🇫🇷  
+🔹 Germany 🇩🇪 — 2 servers  
+🔹 Sweden 🇸🇪 — 2 servers  
 🔹 UK 🇬🇧  
-🔹 USA 🇺🇸  
+🔹 USA 🇺🇸 – 2 servers (NY and LA)  
 🔹 Hong Kong 🇭🇰  
+🔹 Austria 🇦🇹  
+🔹 Georgia 🇬🇪  
+🔹 India 🇮🇳  
+🔹 Moldova 🇲🇩 + Torrent support  
+🔹 Nigeria 🇳🇬  
+🔹 UAE 🇦🇪  
+🔹 Singapore 🇸🇬  
+🔹 Philippines 🇵🇭  
 
 *And many more to come*
 
