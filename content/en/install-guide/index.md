@@ -81,6 +81,11 @@ UseHugoToc: false
 
 5. **Connect, go to the ***Proxy*** tab and ***Select a server***.**
 
+	>If you get **Timeout** when connecting, and in the **Proxies** tab all or almost all servers show ❌, then you need to:
+	Go to the **Configuration Options** tab, find the **Direct DNS** item and change it to:
+
+	>>***https://8.8.8.8/dns-query***
+	
 	>Changing a server can take up to 10 seconds.
 
 	>It is recommended to check the server latency again by clicking on the Lightning icon at the bottom right. Hiddify always “overestimates” the delay by several times and can even show that the server is unavailable, although this is not the case.

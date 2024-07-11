@@ -60,6 +60,7 @@ UseHugoToc: false
 🔹 Austria 🇦🇹  
 🔹 Georgia 🇬🇪  
 🔹 India 🇮🇳  
+🔹 Latvia 🇱🇻  
 🔹 Moldova 🇲🇩 + Torrent support  
 🔹 Nigeria 🇳🇬  
 🔹 UAE 🇦🇪  
