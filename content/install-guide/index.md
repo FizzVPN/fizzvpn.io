@@ -47,12 +47,12 @@ UseHugoToc: false
 
 ## Hiddify Next
 
-1. **Установите последний релиз для своей ОС.**
+1. **Установите релиз v1.4.0 для своей ОС.**
 
 	![Hiddify Next Github](/install-guide/hiddify-github-pc.png)
 
     **Скачать:** {{< rawhtml >}}
-<a  href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
+<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v1.4.0" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}
 	> Для Windows рекомендуем версию **Setup** (с установкой) или **Portable** (достаточно распаковать и запустить).   
 
@@ -64,7 +64,7 @@ UseHugoToc: false
 	
 	**Регион**:
 	Для РФ рекомендуем выбрать регион "Россия", во всех остальных случаях "Другой".
-	> **При выборе региона "Россия" доступ ко всем .RU сайтам и всем IP адресам РФ будет "напрямую"(без VPN).**  
+	> **При выборе региона "Россия" доступ ко всем .RU сайтам будет "напрямую"(без VPN).**  
 	Поэтому для проверки локации не используйте 2ip.ru.
 	
 	>***Сбор аналитики***: рекомендуем отключить.

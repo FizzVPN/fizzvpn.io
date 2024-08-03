@@ -47,12 +47,12 @@ UseHugoToc: false
 
 ## Hiddify Next
 
-1. **Install the latest release for your OS.**
+1. **Install release v1.4.0 for your OS.**
 
 	![Hiddify Next Github](/install-guide/hiddify-github-pc.png)
 
 	**Download:** {{< rawhtml >}}
-<a href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
+<a href="https://github.com/hiddify/hiddify-next/releases/tag/v1.4.0" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}
 	
 2. **Run the program according to your OS. On Windows it is `Hiddify.exe`**
