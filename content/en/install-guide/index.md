@@ -179,8 +179,7 @@ Copy the received subscription and then follow the instructions:
 <a href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}(APK Universal)
 
->**Region**. For the Russian Federation, we recommend choosing the region “Russia”, in all other cases “Other”. *We also recommend turning off analytics collection.*
->>**When selecting the “Russia” region, access to all .RU sites and all IP addresses of the Russian Federation will be “direct” (without VPN).**
+>**Region**. We recommend selecting “Other” in most cases. *We also recommend turning off analytics collection.*
 
 >Next, copy the received subscription and add it as shown below. After adding, switch to the "Proxy" tab and select the desired location.
 
