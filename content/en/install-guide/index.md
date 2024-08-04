@@ -171,6 +171,18 @@ Copy the received subscription and then follow the instructions:
 
 # Android
 
+## v2rayNG
+
+**Download:** {{< rawhtml >}}
+<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" title="Play Store">Play Store</a>
+{{< /rawhtml >}}
+
+Copy the received subscription and then follow the instructions:
+
+![v2rayNG](/install-guide/v2rayNG.png)
+
+--------------
+
 ## Hiddify
 
 **Download:** {{< rawhtml >}}
@@ -184,18 +196,6 @@ Copy the received subscription and then follow the instructions:
 >Next, copy the received subscription and add it as shown below. After adding, switch to the "Proxy" tab and select the desired location.
 
 ![Hiddify](/install-guide/hiddify-android.png)
-
---------------
-
-## v2rayNG
-
-**Download:** {{< rawhtml >}}
-<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" title="Play Store">Play Store</a>
-{{< /rawhtml >}}
-
-Copy the received subscription and then follow the instructions:
-
-![v2rayNG](/install-guide/v2rayNG.png)
 
 --------------
 

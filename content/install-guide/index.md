@@ -173,6 +173,18 @@ UseHugoToc: false
 
 -------------
 
+## v2rayNG
+
+**Скачать:** {{< rawhtml >}}
+<a  href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" title="Play Store">Play Store</a>
+{{< /rawhtml >}}
+
+Копируете полученную подписку и далее по инструкции:
+
+![v2rayNG](/install-guide/v2rayNG.png)
+
+--------------
+
 ## Hiddify
 
 **Скачать:** {{< rawhtml >}}
@@ -192,18 +204,6 @@ UseHugoToc: false
 	>>***https://8.8.8.8/dns-query***
 
 ![Hiddify](/install-guide/hiddify-android.png)
-
---------------
-
-## v2rayNG
-
-**Скачать:** {{< rawhtml >}}
-<a  href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" title="Play Store">Play Store</a>
-{{< /rawhtml >}}
-
-Копируете полученную подписку и далее по инструкции:
-
-![v2rayNG](/install-guide/v2rayNG.png)
 
 --------------
 
