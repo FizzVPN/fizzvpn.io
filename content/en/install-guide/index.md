@@ -30,7 +30,7 @@ UseHugoToc: false
 # ❗️IMPORTANT INFO❗️
 
 1. **Subscription is a key-link** that you receive, like *https://get...*
-	>***You don't need to click on it and copy content from there!***
+	>***You don't need to click on it***
 
 2. All information about new locations, server changes, the need to update your subscription, etc. is here:
 	>[Our Telegram Channel](https://t.me/FizzVPN)
@@ -47,12 +47,12 @@ UseHugoToc: false
 
 ## Hiddify Next
 
-1. **Install release v1.4.0 for your OS.**
+1. **Install latest release for your OS.**
 
 	![Hiddify Next Github](/install-guide/hiddify-github-pc.png)
 
 	**Download:** {{< rawhtml >}}
-<a href="https://github.com/hiddify/hiddify-next/releases/tag/v1.4.0" target="_blank" title="GitHub">GitHub</a>
+<a href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}
 	
 2. **Run the program according to your OS. On Windows it is `Hiddify.exe`**
@@ -186,10 +186,10 @@ Copy the received subscription and then follow the instructions:
 ## Hiddify
 
 **Download:** {{< rawhtml >}}
-<a href="https://play.google.com/store/apps/details?id=app.hiddify.com" target="_blank" title="Play Store">Play Store</a>
-{{< /rawhtml >}} or {{< rawhtml >}}
-<a href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
-{{< /rawhtml >}}(APK Universal)
+<a href="https://github.com/hiddify/hiddify-next/releases/tag/v2.0.5" target="_blank" title="GitHub">GitHub</a>
+{{< /rawhtml >}}(APK Universal)  
+
+>**Do not download from Play Store! That version is broken.**  
 
 >**Region**. We recommend selecting “Other” in most cases. *We also recommend turning off analytics collection.*
 

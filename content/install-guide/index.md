@@ -30,7 +30,7 @@ UseHugoToc: false
 # ❗️ВАЖНАЯ ИНФОРМАЦИЯ❗️
 
 1. **Подписка — это ключ-ссылка**, которую вы получаете, вида *https://get...*
-	>***Переходить по ней и копирать содержимое оттуда не надо!***
+	>***Переходить по ней не надо!***
 
 2. Вся информация о новых локациях, изменении серверов, необходимости обновить подписку и т.д. тут:
 	>[Наш Telegram Канал](https://t.me/FizzVPN)
@@ -47,14 +47,14 @@ UseHugoToc: false
 
 ## Hiddify Next
 
-1. **Установите релиз v1.4.0 для своей ОС.**
+1. **Установите последний релиз для своей ОС.**
 
 	![Hiddify Next Github](/install-guide/hiddify-github-pc.png)
 
     **Скачать:** {{< rawhtml >}}
-<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v1.4.0" target="_blank" title="GitHub">GitHub</a>
+<a  href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}
-	> Для Windows рекомендуем версию **Setup** (с установкой) или **Portable** (достаточно распаковать и запустить).   
+	> Для Windows рекомендуем версию **Portable** (достаточно распаковать и запустить) или **Setup** (с установкой).   
 
 2. **Запускаете программу согласно своей ОС. На Windows это `Hiddify.exe`**
 
@@ -64,7 +64,7 @@ UseHugoToc: false
 	
 	**Регион**:
 	Для РФ рекомендуем выбрать регион "Россия", во всех остальных случаях "Другой".
-	> **При выборе региона "Россия" доступ ко всем .RU сайтам будет "напрямую"(без VPN).**  
+	> **При выборе региона "Россия" доступ ко всем .RU и .РФ сайтам, сервисам VK и Yandex будет "напрямую"(без VPN).**  
 	Поэтому для проверки локации не используйте 2ip.ru.
 	
 	>***Сбор аналитики***: рекомендуем отключить.
@@ -188,10 +188,10 @@ UseHugoToc: false
 ## Hiddify
 
 **Скачать:** {{< rawhtml >}}
-<a  href="https://play.google.com/store/apps/details?id=app.hiddify.com" target="_blank" title="Play Store">Play Store</a>
-{{< /rawhtml >}} или {{< rawhtml >}}
-<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v1.4.0" target="_blank" title="GitHub">GitHub</a>
+<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v2.0.5" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}(APK Universal)
+
+>**Не устанавливайте версию из Play Store! В данный момент она не работает.**  
 
 1. **Регион**. Обязательно выбирайте регион "Другой". *Сбор аналитики также рекомендуем отключить.* 
 	> **При выборе региона "Россия" в данный момент приложение работает некорректно.** 
