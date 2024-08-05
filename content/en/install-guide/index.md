@@ -191,7 +191,10 @@ Copy the received subscription and then follow the instructions:
 
 >**Do not download from Play Store! That version is broken.**  
 
->**Region**. We recommend selecting “Other” in most cases. *We also recommend turning off analytics collection.*
+**Region**:
+For the Russian Federation, we recommend choosing the region “Russia”, in all other cases “Other”.
+>**When selecting the “Russia” region, access to all .RU sites and all IP addresses of the Russian Federation will be “direct” (without VPN).**
+Therefore, do not use 2ip.ru to check the location.
 
 >Next, copy the received subscription and add it as shown below. After adding, switch to the "Proxy" tab and select the desired location.
 
