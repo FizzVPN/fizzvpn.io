@@ -45,6 +45,8 @@ UseHugoToc: false
 ## 🌍 Our locations:  
 
 🔹 Finland 🇫🇮 — 2 servers  
+🔹 Estonia 🇪🇪 — ⚡️ 10 Gbit/s  
+🔹 Germany 🇩🇪 — 2 servers, ⚡️ 10 Gbit/s  
 🔹 Netherlands 🇳🇱 — 2 servers + Torrent support  
 🔹 Türkiye 🇹🇷 — 2 servers + works PSN, Epic Games, Spotify, Netflix  
 🔹 Argentina 🇦🇷  
@@ -57,6 +59,7 @@ UseHugoToc: false
 🔹 UK 🇬🇧  
 🔹 USA 🇺🇸 – 2 servers (NY and LA)  
 🔹 Hong Kong 🇭🇰  
+🔹 Japan 🇯🇵  
 🔹 Austria 🇦🇹  
 🔹 Georgia 🇬🇪  
 🔹 India 🇮🇳  
