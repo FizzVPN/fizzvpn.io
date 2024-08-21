@@ -22,14 +22,16 @@ languages:
             buttons:
               - name: Телеграм канал
                 url: "https://t.me/FizzVPN"
-              - name: Бот для покупки
-                url: "https://t.me/FizzVPNbot"
-              - name: Статус серверов
-                url: "https://status.fizzvpn.io"
+              - name: О товаре
+                url: "/about"
               - name: Инструкция
                 url: "/install-guide"
-              - name: О нас
-                url: "/about"
+              - name: Купить
+                url: "/buy"
+              - name: Поддержка
+                url: "https://t.me/FizzVPNsupportBot"
+              - name: Статус серверов
+                url: "https://status.fizzvpn.io"
     weight: 1
   en:
     contentDir: content/en
@@ -49,14 +51,16 @@ languages:
             buttons:
               - name: Telegram channel
                 url: "https://t.me/FizzVPN"
-              - name: Shop bot
-                url: "https://t.me/FizzVPNbot"
-              - name: Servers' status
-                url: "https://status.fizzvpn.io"
+              - name: About
+                url: "/en/about"
               - name: Install guide
                 url: "/en/install-guide"
-              - name: About us
-                url: "/en/about"
+              - name: Buy
+                url: "/en/buy"
+              - name: Support
+                url: "https://t.me/FizzVPNsupportBot"
+              - name: Servers' status
+                url: "https://status.fizzvpn.io"
     weight: 2
 #menu:
 #  main:

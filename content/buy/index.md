@@ -27,8 +27,11 @@ UseHugoToc: false
 #    relative: false # when using page bundles set this to true
 #    hidden: true # only hide on current single page
 ---
+### Обязательно подпишитесь на наш Telegram канал, все новости только там: {{< rawhtml >}}
+<a href="https://t.me/FizzVPN" target="_blank" title="Fizz VPN">@FizzVPN</a>
+{{< /rawhtml >}}
 {{< rawhtml >}}
 <center>
-<div class="digiseller-buy-standalone" data-id="3700071" data-owner="0" data-lang="ru-RU" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0"></div>
+<div class="digiseller-buy-standalone" data-id="3700071" data-owner="0" data-lang="ru-RU" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0">Загрузка формы покупки, пожалуйста, подождите...</div>
 </center>
 {{< /rawhtml >}}
