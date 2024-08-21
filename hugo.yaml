@@ -28,7 +28,7 @@ languages:
                 url: "/install-guide"
               - name: Купить
                 url: "/buy"
-              - name: Поддержка
+              - name: Помощь
                 url: "https://t.me/FizzVPNsupportBot"
               - name: Статус серверов
                 url: "https://status.fizzvpn.io"
@@ -57,7 +57,7 @@ languages:
                 url: "/en/install-guide"
               - name: Buy
                 url: "/en/buy"
-              - name: Support
+              - name: Help
                 url: "https://t.me/FizzVPNsupportBot"
               - name: Servers' status
                 url: "https://status.fizzvpn.io"
