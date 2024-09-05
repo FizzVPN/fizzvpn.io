@@ -210,7 +210,7 @@ Therefore, do not use 2ip.ru to check the location.
 
 ## NekoRay
 
-![NekoRay](/install-guide/nekoray-update.png)
+![NekoRay](/install-guide/nekoray-update-1.png)
 
 ## Streisand 
 

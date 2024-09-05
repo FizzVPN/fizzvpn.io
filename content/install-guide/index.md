@@ -215,7 +215,7 @@ UseHugoToc: false
 
 ## NekoRay
 
-![NekoRay](/install-guide/nekoray-update.png)
+![NekoRay](/install-guide/nekoray-update-1.png)
 
 ## Streisand 
 
