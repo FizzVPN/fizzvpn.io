@@ -111,7 +111,9 @@ UseHugoToc: false
 3. **После запуска необходимо подкорректировать настройки** *(для устранения утечки DNS)*.  
 	Для этого выбираете в меню "Настройки" -> "Настройки TUN-режима". В открывшемся окне необходимо поставить галочку "Strict Route" и нажать OK.
 
-	>В случае, если подключиться в конце не удастся, то попробуйте убрать эту галочку и попробуйте подключиться снова.
+	Следом "Настройки" -> "Настройки маршрутов" -> "DNS". Измените DNS для "прямых" запросов на:
+	
+	>***https://8.8.8.8/dns-query***
 	
 	![NekoRay-1](/install-guide/nekoray-1.gif)
 	
@@ -159,6 +161,10 @@ UseHugoToc: false
 
 ## V2Box
 
+**Данное приложение устаналивать, только если другие не работают!**  
+
+> Для MacOS существует альтернатива по инструкции Hiddify Next для Win 10/11, только скачиваете пакет DMG.  
+
 **Скачать:** {{< rawhtml >}}
 <a  href="https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690" target="_blank" title="App Store">App Store</a>
 {{< /rawhtml >}}
@@ -188,7 +194,7 @@ UseHugoToc: false
 ## Hiddify
 
 **Скачать:** {{< rawhtml >}}
-<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v2.0.5" target="_blank" title="GitHub">GitHub</a>
+<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v2.1.5" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}(APK Universal)
 
 >**Не устанавливайте версию из Play Маркет! В данный момент она не работает.**  
