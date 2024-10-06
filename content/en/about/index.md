@@ -44,7 +44,8 @@ UseHugoToc: false
 
 ## 🌍 Our locations:  
 
-🔹 Finland 🇫🇮 — 2 servers  
+🔹 Finland 🇫🇮 — 2 servers + game servers  
+🔹 Sweden 🇸🇪 — 4 servers, ⚡️ 10 Gbit/s  
 🔹 Estonia 🇪🇪 — ⚡️ 10 Gbit/s  
 🔹 Germany 🇩🇪 — 2 servers, ⚡️ 10 Gbit/s  
 🔹 Netherlands 🇳🇱 — 2 servers + Torrent support  
@@ -55,17 +56,18 @@ UseHugoToc: false
 🔹 Russia 🇷🇺  
 🔹 France 🇫🇷  
 🔹 Germany 🇩🇪 — 2 servers  
-🔹 Sweden 🇸🇪 — 2 servers  
 🔹 UK 🇬🇧  
 🔹 USA 🇺🇸 – 2 servers (NY and LA)  
 🔹 Hong Kong 🇭🇰  
 🔹 Japan 🇯🇵  
 🔹 Austria 🇦🇹  
 🔹 Georgia 🇬🇪  
+🔹 Denmark 🇩🇰  
 🔹 India 🇮🇳  
 🔹 Latvia 🇱🇻  
 🔹 Moldova 🇲🇩 + Torrent support  
 🔹 Nigeria 🇳🇬  
+🔹 Norway 🇳🇴  
 🔹 UAE 🇦🇪  
 🔹 Singapore 🇸🇬  
 🔹 Philippines 🇵🇭  
