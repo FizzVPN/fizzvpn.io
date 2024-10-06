@@ -65,7 +65,7 @@ UseHugoToc: false
 	**Регион**:
 	Для РФ рекомендуем выбрать регион "Россия", во всех остальных случаях "Другой".
 	> **При выборе региона "Россия" доступ ко всем .RU и .РФ сайтам, сервисам VK и Yandex будет "напрямую"(без VPN).**  
-	Поэтому для проверки локации не используйте 2ip.ru.
+	**❗️ПОЭТОМУ НЕ ИСПОЛЬЗУЙТЕ 2ip.ru ДЛЯ ПРОВЕРКИ ЛОКАЦИИ❗️**
 	
 	>***Сбор аналитики***: рекомендуем отключить.
 	
@@ -177,27 +177,13 @@ UseHugoToc: false
 
 # Android
 
--------------
-
-## v2rayNG
-
-**Скачать:** {{< rawhtml >}}
-<a  href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" title="Play Store">Play Store</a>
-{{< /rawhtml >}}
-
-Копируете полученную подписку и далее по инструкции:
-
-![v2rayNG](/install-guide/v2rayNG.png)
-
---------------
-
 ## Hiddify
 
 **Скачать:** {{< rawhtml >}}
-<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v2.1.5" target="_blank" title="GitHub">GitHub</a>
+<a  href="https://github.com/hiddify/hiddify-next/releases/tag/v2.5.7" target="_blank" title="GitHub">GitHub</a>
 {{< /rawhtml >}}(APK Universal)
 
->**Не устанавливайте версию из Play Маркет! В данный момент она не работает.**  
+>**Не устанавливайте версию из Play Маркет! В данный момент версия с Github работает лучше.**  
 
 **Регион**: Для РФ рекомендуем выбрать регион "Россия", во всех остальных случаях "Другой".
 > **При выборе региона "Россия" доступ ко всем .RU и .РФ сайтам, сервисам VK и Yandex будет "напрямую"(без VPN).**
@@ -212,6 +198,19 @@ UseHugoToc: false
 ![Hiddify](/install-guide/hiddify-android.png)
 
 --------------
+
+## v2rayNG
+
+**Скачать:** {{< rawhtml >}}
+<a  href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" title="Play Store">Play Store</a>
+{{< /rawhtml >}}
+
+Копируете полученную подписку и далее по инструкции:
+
+![v2rayNG](/install-guide/v2rayNG.png)
+
+--------------
+
 
 # Обновление подписки
 
