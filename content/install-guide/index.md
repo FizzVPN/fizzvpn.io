@@ -76,7 +76,7 @@ UseHugoToc: false
 	![NekoRay-3](/install-guide/nekoray-3.gif)  
 
 
-----
+--------
 
 
 ### Раздельное туннелирование: Whitelist  
@@ -86,7 +86,7 @@ UseHugoToc: false
 
 	![NekoRay-Whitelist-1](/install-guide/nekoray-whitelist-1.png)  
 
-2.  В открывшемся окне вводите **любое имя профиля**, нажимаете **New**, выбираете *Attribute*: **process_name** и *Outbound*: **proxy**. В окне снизу справа вводите **процессы, который хотите чтобы работали с VPN, по одному на строчке**.
+2.  В открывшемся окне вводите **любое имя профиля**, нажимаете **New**, выбираете *Attribute*: **process_name** и *Outbound*: **proxy**. В окне снизу справа вводите **процессы, который хотите чтобы работали через VPN, по одному на строчке**.
 
 	![NekoRay-Whitelist-2](/install-guide/nekoray-whitelist-2.png)  
 
@@ -94,8 +94,24 @@ UseHugoToc: false
 
 	![NekoRay-Whitelist-3](/install-guide/nekoray-whitelist-3.png)  
 
+
+--------
+
+
 ### Раздельное туннелирование: Blacklist    
 ***Все через VPN, кроме выбранных программ (скоро)***
+
+1.  Открываете **Настройки -> Настройки маршрутов -> вкладка Route**. Нажимаете New.  
+
+	![NekoRay-Whitelist-1](/install-guide/nekoray-whitelist-1.png)  
+
+2.  В открывшемся окне вводите **любое имя профиля**, нажимаете **New**, выбираете *Attribute*: **process_name** и *Outbound*: **direct**. В окне снизу справа вводите **процессы, который хотите чтобы работали без VPN, по одному на строчке**.
+
+	![NekoRay-Whitelist-2](/install-guide/nekoray-blacklist-1.png)  
+
+3.  Дважды нажимаете **ОК**, и после этого **перезапускаете программу через трей (это важно)**. Далее Открываете **Настройки -> Настройки маршрутов -> вкладка Общие**. Устанавливаете новосозданный профиль в поле **Routing Profile**.
+
+	![NekoRay-Whitelist-3](/install-guide/nekoray-blacklist-2.png)  
 
 -------------
 
