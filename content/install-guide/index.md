@@ -144,12 +144,12 @@ UseHugoToc: false
 
 1. **Установите последний релиз для своей ОС.**
 
-	![Hiddify Next Github](/install-guide/hiddify-github-pc.png)
-
-    **Скачать:** {{< rawhtml >}}
+    > **Скачать:** {{< rawhtml >}}
 <a  href="https://github.com/hiddify/hiddify-next/releases" target="_blank" title="GitHub">GitHub</a>
-{{< /rawhtml >}}
-	> Для Windows рекомендуем версию **Portable** (достаточно распаковать и запустить) или **Setup** (с установкой).   
+{{< /rawhtml >}}  
+	> Для Windows рекомендуем версию **Portable** (достаточно распаковать и запустить) или **Setup** (с установкой). 
+
+	![Hiddify Next Github](/install-guide/hiddify-github-pc.png)  
 
 2. **Запускаете программу согласно своей ОС. На Windows это `Hiddify.exe`**
 
