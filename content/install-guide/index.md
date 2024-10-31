@@ -27,7 +27,9 @@ UseHugoToc: false
 #    hidden: true # only hide on current single page
 ---
 
+
 # ❗️ВАЖНАЯ ИНФОРМАЦИЯ❗️
+
 
 1. **Подписка — это ключ-ссылка**, которую вы получаете, вида *https://get...*
 	>***Переходить по ней не надо!***
@@ -43,33 +45,42 @@ UseHugoToc: false
 	
 	то необходимо повторно обновить подписку. Если не помогло, то значит в данный момент сервер недоступен.
 
+
 # Windows 10/11, Linux
 
-## NekoRay
+## NekoRay  
+
 1. Установите последний релиз для **своей ОС**. 
 
-	![NekoRay Github](/install-guide/nekoray-github.png)
-
-    **Скачать:** {{< rawhtml >}}
-<a  href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br><br>
+> **Скачать:** {{< rawhtml >}}
+<a  href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br>
 {{< /rawhtml >}}
+
+![NekoRay Github](/install-guide/nekoray-github.png)
+
 
 2. Запускаете программу согласно своей ОС. На Windows это **`nekoray.exe`**
 
 	>**Важно!** Запускайте ***с правами администратора*** *(потребуются для режима VPN)*.
 
-3. **После запуска необходимо подкорректировать настройки** *(для устранения утечки DNS)*.  
-	Для этого выбираете в меню "Настройки" -> "Настройки TUN-режима". В открывшемся окне необходимо поставить галочку "Strict Route" и нажать OK.
+	>**В случае проблем с запуском на Windows, необходимо установить два официальных пакета от Microsoft:**  
+	**1:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version" target="_blank" title="Распространяемый компонент Visual C++ для Visual Studio 2015-2022">РК Visual C++ для Visual Studio 2015-2022</a>
+{{< /rawhtml >}}  
+	**2:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120--no-longer-supported" target="_blank" title="Распространяемый компонент Visual C++ для Visual Studio 2013">РК Visual C++ для Visual Studio 2013</a><br>
+{{< /rawhtml >}}
+	
+	
+3.	Копируете подписку и выбираете в меню **"Программа" -> "Добавить профиль из буфера обмена"**.  
+В открывшемся окне выбираете **"Как подписку (добавить новую группу)"** и нажимаете **OK**.  
+Далее **"Настройки" -> "Группы"** и удаляете группу **По умолчанию**.
 
-	>Также убедитесь, что значение **stack** - **gvisor**. C mixed и system могут возникать проблемы.
-	
-	![NekoRay-1](/install-guide/nekoray-1.gif)
-	
-4.	Копируете подписку и выбираете в меню **"Программа" -> "Добавить профиль из буфера обмена"**. В открывшемся окне выбираете **"Как подписку (добавить новую группу)"** и нажимаете **OK**. Далее **"Настройки" -> "Группы"** и удаляете группу **По умолчанию**.**
+	> **Данные шаги на отображены на GIF ниже:** 
 
 	![NekoRay-2](/install-guide/nekoray-2-1.gif)
 	
-5.  Выбираете в меню **"Программа" -> "Запомнить последний профиль"**. Далее обязательно ставите галочку **"Режим TUN"** в правом верхнем углу, затем выбираете сервер, **"ПКМ" -> "Запустить"**.
+4.  Обязательно ставите галочку **"Режим TUN"** в правом верхнем углу, затем выбираете сервер, **"ПКМ" -> "Запустить"**.
 
 	>Если вам нужен VPN только для браузера, то можете выбрать режим в **«Системный прокси»**.
 
@@ -86,7 +97,9 @@ UseHugoToc: false
 --------
 
 
-### Раздельное туннелирование: Whitelist  
+{{< rawhtml >}} <center> {{< /rawhtml >}} 
+### Раздельное туннелирование: Whitelist
+{{< rawhtml >}} </center> {{< /rawhtml >}}
 ***Выбранные программы через VPN, все остальное без VPN***  
 
 >**Перед настройкой убедитесь, что VPN работает!**
@@ -105,9 +118,10 @@ UseHugoToc: false
 
 
 --------
-
-
+  
+{{< rawhtml >}} <center> {{< /rawhtml >}} 
 ### Раздельное туннелирование: Blacklist    
+{{< rawhtml >}} </center> {{< /rawhtml >}}
 ***Все через VPN, кроме выбранных программ***  
 
 >**Перед настройкой убедитесь, что VPN работает!** 
@@ -141,6 +155,14 @@ UseHugoToc: false
 
 	>**Важно!** Запускайте ***с правами администратора*** *(потребуются для режима VPN)*.
 
+	>**В случае проблем с запуском на Windows, а также при "Неожиданной ошибке подключения", необходимо установить два пакета от Microsoft:**  
+	**1:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version" target="_blank" title="Распространяемый компонент Visual C++ для Visual Studio 2015-2022">РК Visual C++ для Visual Studio 2015-2022</a>
+{{< /rawhtml >}}  
+	**2:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120--no-longer-supported" target="_blank" title="Распространяемый компонент Visual C++ для Visual Studio 2013">РК Visual C++ для Visual Studio 2013</a><br>
+{{< /rawhtml >}}
+
 	![Hiddify-1](/install-guide/hiddify-1.png)
 	
 	**Регион**:
@@ -173,17 +195,19 @@ UseHugoToc: false
 	
 	>Смена сервера может занимать до 10 секунд. Также рекомендуется проверить задержку серверов повторно, нажав на иконку Молнии справа внизу. Hiddify всегда "завышает" задержку в разы и даже может показать что сервер недоступен, хотя это не так.
 
+
+--------
+
 ## Другие клиенты
 
-**Invisible Man - XRay**: {{< rawhtml >}}
+**Invisible Man - XRay**:  
+{{< rawhtml >}}
 <a  href="https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases" target="_blank" title="GitHub">https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases</a>
 {{< /rawhtml >}}
 
 -------------
 
 # iOS/Mac
-
--------------
 
 ## Streisand
 
