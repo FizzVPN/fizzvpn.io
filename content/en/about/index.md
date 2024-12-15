@@ -49,23 +49,28 @@ UseHugoToc: false
 🔹 Sweden 🇸🇪 — 4 servers, ⚡️ 10 Gbit/s  
 🔹 Estonia 🇪🇪 — ⚡️ 10 Gbit/s  
 🔹 Germany 🇩🇪 — 2 servers, ⚡️ 10 Gbit/s  
-🔹 Netherlands 🇳🇱 — 2 servers + Torrent support  
+🔹 Netherlands 🇳🇱 — 2 servers, ⚡️ 10 Gbit/s + Torrent support  
 🔹 Türkiye 🇹🇷 — 2 servers + works PSN, Epic Games, Spotify, Netflix  
 🔹 Argentina 🇦🇷  
+🔹 Australia 🇦🇺  
+🔹 Brazil 🇧🇷  
 🔹 Egypt 🇪🇬  
 🔹 Kazakhstan 🇰🇿  
-🔹 Russia 🇷🇺  
+🔹 Russia 🇷🇺 — MSK and SPB  
 🔹 France 🇫🇷  
 🔹 Germany 🇩🇪 — 2 servers  
 🔹 UK 🇬🇧  
-🔹 USA 🇺🇸 – 2 servers (NY and LA)  
+🔹 USA 🇺🇸 – 4 servers (NY, LA, UT и TX)  
 🔹 Hong Kong 🇭🇰  
 🔹 Japan 🇯🇵  
 🔹 Austria 🇦🇹  
 🔹 Georgia 🇬🇪  
 🔹 Denmark 🇩🇰  
 🔹 India 🇮🇳  
+🔹 Ireland 🇮🇪  
+🔹 Canada 🇨🇦  
 🔹 Latvia 🇱🇻  
+🔹 Malaysia 🇲🇾  
 🔹 Moldova 🇲🇩 + Torrent support  
 🔹 Nigeria 🇳🇬  
 🔹 Norway 🇳🇴  
