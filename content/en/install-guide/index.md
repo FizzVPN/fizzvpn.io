@@ -29,7 +29,7 @@ UseHugoToc: false
 
 # ❗️IMPORTANT INFO❗️
 
-1. **Subscription is a key-link** that you receive, like *https://get...*
+1. **Subscription is a key-link** that you receive, like *https://xfizz...*
 	>***You don't need to click on it***
 
 2. All information about new locations, server changes, the need to update your subscription, etc. is here:
@@ -41,9 +41,42 @@ UseHugoToc: false
 
 	> ⛔ **XX UNAVAILABLE** ⛔
 
-	then you need to update your subscription again. If it doesn’t help, it means the server is currently unavailable.
+	then you need to update your subscription again in 5 minutes. If it doesn’t help, it means the server is currently unavailable.
 
 # Windows 10/11, Linux
+
+## NekoRay
+
+1. **Install the latest release for your OS.**
+
+	![NekoRay Github](/install-guide/nekoray-github.png)
+
+	**Download:** {{< rawhtml >}}
+<a href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br><br>
+{{< /rawhtml >}}
+
+2. **Run the program according to your OS. On Windows it is `nekoray.exe` with a "cats in a box" icon.**
+
+	>**Important!** Run ***with administrator rights*** *(required for VPN mode)*.
+
+3. **After launch, you need to adjust the settings** *(to eliminate DNS leak)*.
+	To do this, select “Settings” -> “TUN mode settings” in the menu. In the window that opens, check the "Strict Route" box and click OK.
+
+	>If you fail to connect at the end, try unchecking this box and try connecting again.
+
+	![NekoRay-1](/install-guide/nekoray-1.gif)
+
+4. **Copy the subscription and select “Program” -> “Add profile from a clipboard” from the menu. In the window that opens, select “As a subscription (add a new group)” and click OK. Next "Settings" -> Groups and delete the default group.**
+
+	![NekoRay-2](/install-guide/nekoray-2-1.gif)
+
+5. **Select “Program” -> “Remember last profile” from the menu. Next, be sure to check the “TUN Mode” checkbox in the upper right corner, then select the server, “RMB” -> “Run”.**
+
+	>If you only need a VPN for the browser, you can select the “System Proxy” mode.
+
+	![NekoRay-2](/install-guide/nekoray-3.gif)
+
+-------------
 
 ## Hiddify Next
 
@@ -91,39 +124,6 @@ UseHugoToc: false
 	>It is recommended to check the server latency again by clicking on the Lightning icon at the bottom right. Hiddify always “overestimates” the delay by several times and can even show that the server is unavailable, although this is not the case.
 
 	![Hiddify-5](/install-guide/hiddify-4.png)
-
--------------
-
-## NekoRay
-
-1. **Install the latest release for your OS.**
-
-	![NekoRay Github](/install-guide/nekoray-github.png)
-
-	**Download:** {{< rawhtml >}}
-<a href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br><br>
-{{< /rawhtml >}}
-
-2. **Run the program according to your OS. On Windows it is `nekoray.exe` with a "cats in a box" icon.**
-
-	>**Important!** Run ***with administrator rights*** *(required for VPN mode)*.
-
-3. **After launch, you need to adjust the settings** *(to eliminate DNS leak)*.
-	To do this, select “Settings” -> “TUN mode settings” in the menu. In the window that opens, check the "Strict Route" box and click OK.
-
-	>If you fail to connect at the end, try unchecking this box and try connecting again.
-
-	![NekoRay-1](/install-guide/nekoray-1.gif)
-
-4. **Copy the subscription and select “Program” -> “Add profile from a clipboard” from the menu. In the window that opens, select “As a subscription (add a new group)” and click OK. Next "Settings" -> Groups and delete the default group.**
-
-	![NekoRay-2](/install-guide/nekoray-2-1.gif)
-
-5. **Select “Program” -> “Remember last profile” from the menu. Next, be sure to check the “TUN Mode” checkbox in the upper right corner, then select the server, “RMB” -> “Run”.**
-
-	>If you only need a VPN for the browser, you can select the “System Proxy” mode.
-
-	![NekoRay-2](/install-guide/nekoray-3.gif)
 
 -------------
 

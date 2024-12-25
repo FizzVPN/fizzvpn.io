@@ -29,7 +29,7 @@ UseHugoToc: false
 ## Fizz VPN is:  
 
 🔹 Personal VPN subscription with a large selection of locations  
-🌍 ***All locations are available immediately within the subscription, no switching, replacement, etc.***  
+🌍 **All locations are available immediately within the subscription, no switching, replacement, etc.**  
 ⛔️ Built-in AD blocking
 🔀 Split tunneling  
 🔹 Created using one of the most modern technologies (VLESS-Reality)  
@@ -38,6 +38,7 @@ UseHugoToc: false
 🔹 **No traffic limit**  
 ⚡️ **Speed ​​up to 1Gbps**  
 ✅ *There are servers that support BitTorrent*  
+❗❗ **Using BitTorrent and similar P2P clients on other servers will result in an automatic ban for 15 minutes** ❗❗  
 🔹 Supports all popular OS and devices (Windows 10/11, Android, iOS, MacOS, Linux)  
 🔰 Guarantee for the entire subscription period  
 
@@ -80,4 +81,4 @@ UseHugoToc: false
 
 *And many more to come*
 
-⛔️ *This product does not work in Turkmenistan. Working in Iran and China are also not guaranteed.⛔️
+⛔️ *This product does not work in Turkmenistan. Working in Iran are also not guaranteed.⛔️
