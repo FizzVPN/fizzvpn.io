@@ -137,11 +137,11 @@ UseHugoToc: false
 
 2.  В открывшемся окне вводите **любое имя профиля**, нажимаете **New**, выбираете *Attribute*: **process_name** и *Outbound*: **direct**. В окне снизу справа вводите **процессы, который хотите чтобы работали без VPN, по одному на строчке**.
 
-	![NekoRay-Whitelist-2](/install-guide/nekoray-blacklist-1.png)  
+	![NekoRay-Blacklist-1](/install-guide/nekoray-blacklist-1.png)  
 
 3.  Дважды нажимаете **ОК**, и после этого **перезапускаете программу через трей (это важно)**. Далее Открываете **Настройки -> Настройки маршрутов -> вкладка Общие**. Устанавливаете новосозданный профиль в поле **Routing Profile**.
 
-	![NekoRay-Whitelist-3](/install-guide/nekoray-blacklist-2.png)  
+	![NekoRay-Blacklist-2](/install-guide/nekoray-blacklist-2.png)  
 
 -------------
 
@@ -159,7 +159,7 @@ UseHugoToc: false
 2. **Запускаете программу согласно своей ОС. На Windows это `Hiddify.exe`**
 
 	>**Важно!** Запускайте ***с правами администратора*** *(потребуются для режима VPN)*.
-	>>Если установлен антивирус **DrWeb**, то для работы программы **необходимо добавить папку, а также nekoray.exe и nekobox_core.exe в исключения антивируса.** 
+	>>Если установлен антивирус **DrWeb**, то для работы программы **необходимо добавить папку, а также Hiddify.exe и HiddifyCli.exe в исключения антивируса.** 
 
 	>**В случае проблем с запуском на Windows, а также при "Неожиданной ошибке подключения", необходимо установить два пакета от Microsoft:**  
 	**1:** {{< rawhtml >}}
@@ -267,7 +267,7 @@ UseHugoToc: false
 
 **Данное приложение устаналивать, только если другие не работают! (Например Mac на процессорах Intel)**  
 
-> Для MacOS существует альтернатива с GitHub по инструкции Hiddify Next для Win 10/11, только скачиваете пакет DMG.  
+>Для MacOS существует альтернатива с GitHub по инструкции Hiddify Next для Win 10/11, только скачиваете пакет DMG.  
 
 **Скачать:** {{< rawhtml >}}
 <a  href="https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690" target="_blank" title="App Store">App Store</a>

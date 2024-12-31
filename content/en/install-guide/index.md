@@ -59,22 +59,72 @@ UseHugoToc: false
 
 	>**Important!** Run ***with administrator rights*** *(required for VPN mode)*.
 
-3. **After launch, you need to adjust the settings** *(to eliminate DNS leak)*.
-	To do this, select “Settings” -> “TUN mode settings” in the menu. In the window that opens, check the "Strict Route" box and click OK.
+	> After starting in the Windows ***firewall window, be sure to put two ticks (private and public network)***.
+	>> If the antivirus **DRWEB** is installed, then you need to add a folder for the program, **as well as nekoray.exe and nekobox_core.exe in the exception of antivirus.**    
 
-	>If you fail to connect at the end, try unchecking this box and try connecting again.
+	>**In the case of problems with the launch on Windows, you need to install two official packages from Microsoft:**  
+	**1:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version" target="_blank" title="Redist Visual C++ for Visual Studio 2015-2022">Redist Visual C++ for Visual Studio 2015-2022</a>
+{{< /rawhtml >}}  
+	**2:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120--no-longer-supported" target="_blank" title="Redist Visual C++ for Visual Studio 2013">Redist Visual C++ for Visual Studio 2013</a><br>
+{{< /rawhtml >}}
 
-	![NekoRay-1](/install-guide/nekoray-1.gif)
-
-4. **Copy the subscription and select “Program” -> “Add profile from a clipboard” from the menu. In the window that opens, select “As a subscription (add a new group)” and click OK. Next "Settings" -> Groups and delete the default group.**
+3. **Copy the subscription and select “Program” -> “Add profile from a clipboard” from the menu. In the window that opens, select “As a subscription (add a new group)” and click OK. Next "Settings" -> Groups and delete the default group.**
 
 	![NekoRay-2](/install-guide/nekoray-2-1.gif)
 
-5. **Select “Program” -> “Remember last profile” from the menu. Next, be sure to check the “TUN Mode” checkbox in the upper right corner, then select the server, “RMB” -> “Run”.**
+4. **Select “Program” -> “Remember last profile” from the menu. Next, be sure to check the “TUN Mode” checkbox in the upper right corner, then select the server, “RMB” -> “Run”.** Further in the Windows firewall window (if you use it) ***be sure to put two checkmarks (private and public network) ***, otherwise the program ***will not work ***.  
 
-	>If you only need a VPN for the browser, you can select the “System Proxy” mode.
+
+	>If you only need a VPN for the browser, you can select the “System Proxy” mode.  
+
+	> **Important!** After disconnecting, it is necessary to remove the checkmark **“System proxy”**, otherwise **the Internet will not work**.  
 
 	![NekoRay-2](/install-guide/nekoray-3.gif)
+
+-------------
+
+{{< rawhtml >}} <center> {{< /rawhtml >}} 
+### Split tunneling: Whitelist
+{{< rawhtml >}} </center> {{< /rawhtml >}}
+***Selected programs through VPN, everything else without VPN***  
+
+>**Before setting up, make sure that the VPN is working!**
+
+1.  Open **Settings -> Route settings -> Route** tab. Press New.  
+
+	![NekoRay-Whitelist-1](/install-guide/nekoray-whitelist-1.png)  
+
+2.  In the window opened, enter **any name of the profile**, press **New**, select *attribute*: **Process_name** and *outbound*: **proxy**. In the window from the bottom right, enter **processes that you want to work through VPN, one on the line**.
+
+	![NekoRay-Whitelist-2](/install-guide/nekoray-whitelist-2.png)  
+
+3.  Press twice **OK**, and after that **restart the program through the tray (this is important)**. Next, open **Settings -> Route settings -> General tab**. Select the newly created profile in the **routing profile** field, below **Default outbound** select **Direct**.
+
+	![NekoRay-Whitelist-3](/install-guide/nekoray-whitelist-3.png)  
+
+
+--------
+  
+{{< rawhtml >}} <center> {{< /rawhtml >}} 
+### Split tunneling: Blacklist    
+{{< rawhtml >}} </center> {{< /rawhtml >}}
+***All through VPN, except for selected programs***  
+
+>**Before setting up, make sure that the VPN is working!** 
+
+1.  Open **Settings -> Route settings -> Route** tab. Press New.  
+
+	![NekoRay-Whitelist-1](/install-guide/nekoray-whitelist-1.png)  
+
+2.  In the window opened, enter **any profile name**, press **New**, select *attribute*: **Process_name** and *outbound*: **Direct**. In the window from the bottom right, enter **processes that you want to work without VPN, one on the line**.
+
+	![NekoRay-Blacklist-1](/install-guide/nekoray-blacklist-1.png)  
+
+3.  Press twice **OK**, and after that **restart the program through the tray (this is important)**. Next, open **Settings -> Route settings -> General tab**. Select the newly created profile in the **routing profile** field.
+
+	![NekoRay-Blacklist-2](/install-guide/nekoray-blacklist-2.png)  
 
 -------------
 
@@ -91,6 +141,15 @@ UseHugoToc: false
 2. **Run the program according to your OS. On Windows it is `Hiddify.exe`**
 
 	>**Important!** Run ***with administrator rights*** *(required for VPN mode)*.
+	>> If the antivirus **DRWEB** is installed, then you need to add a folder for the program, **as well as Hiddify.exe and HiddifyCli.exe in the exception of antivirus.**    
+
+	>**In the case of problems with the launch on Windows, you need to install two official packages from Microsoft:**  
+	**1:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version" target="_blank" title="Redist Visual C++ for Visual Studio 2015-2022">Redist Visual C++ for Visual Studio 2015-2022</a>
+{{< /rawhtml >}}  
+	**2:** {{< rawhtml >}}
+<a  href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120--no-longer-supported" target="_blank" title="Redist Visual C++ for Visual Studio 2013">Redist Visual C++ for Visual Studio 2013</a><br>
+{{< /rawhtml >}}
 
 	![Hiddify-1](/install-guide/hiddify-1.png)
 
@@ -127,9 +186,16 @@ UseHugoToc: false
 
 -------------
 
-# iOS/Mac
+## Other clients
+
+**Invisible Man - XRay**:  
+{{< rawhtml >}}
+<a  href="https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases" target="_blank" title="GitHub">https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases</a>
+{{< /rawhtml >}}
 
 -------------
+
+# iOS/Mac
 
 ## Streisand
 
@@ -145,6 +211,18 @@ Copy the received subscription and then follow the instructions:
 
 -------------
 
+## Hiddify (AppStore)
+
+**Скачать:** {{< rawhtml >}}
+<a  href="https://apps.apple.com/ru/app/hiddify-proxy-vpn/id6596777532" target="_blank" title="App Store">App Store</a>
+{{< /rawhtml >}}
+
+Next, copy the resulting subscription and add as shown below.After adding, switch to the "proxy" tab and select the desired location.  
+
+![Hiddify](/install-guide/hiddify-android.png)
+
+-------------
+
 ## Shadowrocket [2.99 $]
 
 **Buy:** {{< rawhtml >}}
@@ -157,7 +235,21 @@ Copy the received subscription and then follow the instructions:
 
 -------------
 
+## Happ
+
+**Скачать:** {{< rawhtml >}}
+<a  href="https://apps.apple.com/ru/app/happ-proxy-utility/id6504287215" target="_blank" title="App Store">App Store</a>
+{{< /rawhtml >}}
+
+Next, copy the received subscription and add by analogy with other applications above. 
+
+-------------
+
 ## V2Box
+
+**This application is tired only if others do not work! (For example Mac on Intel processors)**  
+
+>For MacOS there is an alternative to GitHub according to the Hiddify Next instructions for Win 10/11, just download the DMG package.
 
 **Download:** {{< rawhtml >}}
 <a href="https://apps.apple.com/app/v2box-v2ray-client/id6446814690" target="_blank" title="App Store">App Store</a>
@@ -224,4 +316,4 @@ Copy the received subscription and then follow the instructions:
 
 ![V2rayNG](/install-guide/v2rayng-update.png)
 
-{{< rawhtml >}}<center><b>The End</b></center>{{< /rawhtml >}}
+{{< rawhtml >}}<center><b>The End :)</b></center>{{< /rawhtml >}}
