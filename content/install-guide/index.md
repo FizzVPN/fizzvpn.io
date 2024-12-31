@@ -229,6 +229,18 @@ UseHugoToc: false
 
 -------------
 
+## Hiddify (AppStore)
+
+**Скачать:** {{< rawhtml >}}
+<a  href="https://apps.apple.com/ru/app/hiddify-proxy-vpn/id6596777532" target="_blank" title="App Store">App Store</a>
+{{< /rawhtml >}}
+
+Далее копируете полученную подписку и добавляете как показано ниже. После добавления переключитесь на вкладку "Прокси" и выберите желаемую локацию.  
+
+![Hiddify](/install-guide/hiddify-android.png)
+
+-------------
+
 ## Shadowrocket [249 ₽]
 
 **Купить:** {{< rawhtml >}}
@@ -241,11 +253,21 @@ UseHugoToc: false
 
 -------------
 
+## Happ
+
+**Скачать:** {{< rawhtml >}}
+<a  href="https://apps.apple.com/ru/app/happ-proxy-utility/id6504287215" target="_blank" title="App Store">App Store</a>
+{{< /rawhtml >}}
+
+Далее копируете полученную подписку и добавляете по аналогии с другими приложениями выше.  
+
+-------------
+
 ## V2Box
 
-**Данное приложение устаналивать, только если другие не работают!**  
+**Данное приложение устаналивать, только если другие не работают! (Например Mac на процессорах Intel)**  
 
-> Для MacOS существует альтернатива по инструкции Hiddify Next для Win 10/11, только скачиваете пакет DMG.  
+> Для MacOS существует альтернатива с GitHub по инструкции Hiddify Next для Win 10/11, только скачиваете пакет DMG.  
 
 **Скачать:** {{< rawhtml >}}
 <a  href="https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690" target="_blank" title="App Store">App Store</a>
