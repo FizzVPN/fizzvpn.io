@@ -47,12 +47,12 @@ UseHugoToc: false
 
 ## NekoRay
 
-1. **Install the latest release for your OS.**
+1. **Install the 4.2.7 release for your OS.**
 
 	![NekoRay Github](/install-guide/nekoray-github.png)
 
 	**Download:** {{< rawhtml >}}
-<a href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br><br>
+<a href="https://github.com/Mahdi-zarei/nekoray/releases/tag/4.2.7" target="_blank" title="GitHub">GitHub</a><br><br>
 {{< /rawhtml >}}
 
 2. **Run the program according to your OS. On Windows it is `nekoray.exe` with a "cats in a box" icon.**

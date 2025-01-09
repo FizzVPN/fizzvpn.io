@@ -50,10 +50,10 @@ UseHugoToc: false
 
 ## NekoRay  
 
-1. Установите последний релиз для **своей ОС**. 
+1. Установите релиз 4.2.7 для **своей ОС**. 
 
 > **Скачать:** {{< rawhtml >}}
-<a  href="https://github.com/Mahdi-zarei/nekoray/releases" target="_blank" title="GitHub">GitHub</a><br>
+<a  href="https://github.com/Mahdi-zarei/nekoray/releases/tag/4.2.7" target="_blank" title="GitHub">GitHub</a><br>
 {{< /rawhtml >}}
 
 ![NekoRay Github](/install-guide/nekoray-github.png)
