@@ -59,7 +59,6 @@ UseHugoToc: false
 🔹 Kazakhstan 🇰🇿  
 🔹 Russia 🇷🇺 — MSK and SPB  
 🔹 France 🇫🇷  
-🔹 Germany 🇩🇪 — 2 servers  
 🔹 UK 🇬🇧  
 🔹 USA 🇺🇸 – 4 servers (NY, LA, UT и TX)  
 🔹 Hong Kong 🇭🇰  
