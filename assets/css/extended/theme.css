@@ -10,15 +10,15 @@ body {
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 6px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
+    --theme: rgb(250, 250, 250);
+    --entry: rgb(250, 250, 250);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(225, 85, 170);
+    --tertiary: rgb(245, 55, 170);
     --content: rgb(31, 31, 31);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(240, 240, 240);
-    --border: rgb(238, 238, 238);
+    --code-bg: rgb(236, 236, 236);
+    --border: rgb(234, 234, 234);
 }
 
 .dark {
@@ -26,7 +26,7 @@ body {
     --entry: rgb(46, 46, 51);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(165, 5, 110);
+    --tertiary: rgb(195, 15, 120);
     --content: rgb(196, 196, 197);
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
@@ -34,7 +34,7 @@ body {
 }
 
 .list {
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 .dark.list {
