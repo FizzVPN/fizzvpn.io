@@ -28,8 +28,8 @@ UseHugoToc: false
 ---
 ## Fizz VPN is:  
 
-🔹 Personal VPN subscription with a large selection of locations  
-🌍 **All locations are available immediately within the subscription, no switching, replacement, etc.**  
+🔹 Personal VPN subscription key with a large selection of locations  
+🌍 **All locations are available immediately within the subscription, no switching or replacement**  
 ⛔️ Built-in AD blocking
 🔀 Split tunneling  
 🔹 Created using one of the most modern technologies (VLESS-Reality)  
