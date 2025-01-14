@@ -27,7 +27,7 @@ UseHugoToc: false
 #    relative: false # when using page bundles set this to true
 #    hidden: true # only hide on current single page
 ---
-### Обязательно подпишитесь на наш Telegram канал, все новости только там: {{< rawhtml >}}
+### Все новости и обновления только в нашем Telegram канале: {{< rawhtml >}}
 <a href="https://t.me/FizzVPN" target="_blank" title="Fizz VPN">@FizzVPN</a>
 {{< /rawhtml >}}
 {{< rawhtml >}}
