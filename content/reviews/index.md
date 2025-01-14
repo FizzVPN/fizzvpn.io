@@ -15,7 +15,7 @@ disableHLJS: false
 hideSummary: true
 searchHidden: true
 ShowReadingTime: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
@@ -28,7 +28,7 @@ UseHugoToc: false
 #    hidden: true # only hide on current single page
 ---
 {{< rawhtml >}}
-<center>
+<center><a  href="/reviews/#!digiseller/reviews" title="Отзывы покупателей">Отзывы покупателей</a><br><br>
 <span class="digiseller-body" id="digiseller-body" data-owner="0" data-cat="0" data-logo="0" data-downmenu="0" data-purchases="0" data-langs="0" data-cart="0" data-search="0"></span>
 </center>
 {{< /rawhtml >}}

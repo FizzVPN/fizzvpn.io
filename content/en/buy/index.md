@@ -15,7 +15,7 @@ disableHLJS: false
 hideSummary: true
 searchHidden: true
 ShowReadingTime: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false

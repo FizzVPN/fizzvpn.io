@@ -24,6 +24,8 @@ languages:
                 url: "https://t.me/FizzVPN"
               - name: О товаре
                 url: "/about"
+              - name: Отзывы
+                url: "/reviews/#!digiseller/reviews"
               - name: Инструкция
                 url: "/install-guide"
               - name: Купить
@@ -53,6 +55,8 @@ languages:
                 url: "https://t.me/FizzVPN"
               - name: About
                 url: "/en/about"
+              - name: Reviews
+                url: "/en/reviews/#!digiseller/reviews"
               - name: Install guide
                 url: "/en/install-guide"
               - name: Buy

@@ -33,10 +33,16 @@
       .digiseller-body .digiseller-select-wrap::after, .digiseller-body select, .digiseller-buy-standalone .digiseller-select-wrap::after, .digiseller-pricing-table .digiseller-bullet-item select, .digiseller-reveal-modal select {
         background-image: url(http://shop.digiseller.ru/img/img2/arrow-b_hover.png), linear-gradient(to bottom, var(--entry), var(--code-bg));
       }
-      .digiseller-body ul.digiseller-pagination li a, .digiseller-body ul.digiseller-pagination li.digiseller-unavailable a {
+      .digiseller-body ul.digiseller-pagination li a {
         background-color: var(--entry);
         background-image: none;
         border: 1px solid var(--theme);
+      }
+      .digiseller-body ul.digiseller-pagination li.digiseller-unavailable a {
+        background-color: var(--entry);
+        background-image: none;
+        pointer-events: none;
+        cursor: default;
       }
       .digiseller-body ul.digiseller-pagination li.digiseller-current a {
         background-color: var(--code-bg) !important;
