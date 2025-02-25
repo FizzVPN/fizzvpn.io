@@ -32,6 +32,6 @@ UseHugoToc: false
 {{< /rawhtml >}}
 {{< rawhtml >}}
 <center>
-<div class="digiseller-buy-standalone" data-id="3700071" data-owner="0" data-lang="ru-RU" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0">Загрузка формы покупки, пожалуйста, подождите...</div>
+<div class="digiseller-buy-standalone" data-id="4951358" data-owner="0" data-lang="ru-RU" data-img="0" data-img-size="180" data-name="1" data-price="1" data-no-price="0">Загрузка формы покупки, пожалуйста, подождите...</div>
 </center>
 {{< /rawhtml >}}
