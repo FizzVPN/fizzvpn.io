@@ -63,11 +63,12 @@ UseHugoToc: false
 🔹 USA 🇺🇸 – 4 servers (NY, LA, UT и TX)  
 🔹 Hong Kong 🇭🇰  
 🔹 Japan 🇯🇵  
-🔹 Austria 🇦🇹  
+🔹 Austria 🇦🇹 — 2 servers  
 🔹 Georgia 🇬🇪  
 🔹 Denmark 🇩🇰  
 🔹 India 🇮🇳  
 🔹 Ireland 🇮🇪  
+🔹 Italy 🇮🇹  
 🔹 Canada 🇨🇦  
 🔹 Latvia 🇱🇻  
 🔹 Malaysia 🇲🇾  
@@ -77,6 +78,7 @@ UseHugoToc: false
 🔹 UAE 🇦🇪  
 🔹 Singapore 🇸🇬  
 🔹 Spain 🇪🇸  
+🔹 Switzerland 🇨🇭  
 🔹 Philippines 🇵🇭  
 🔹 Poland 🇵🇱  
 
